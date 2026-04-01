@@ -1,5 +1,5 @@
 # De Koetjes Bestanden
-De meeste songtexten voor liedjes van De Koetjes en ook ideeën voor liedjes en songtexten
+De meeste songtexten, mp4, mp3 en jpg's voor liedjes van De Koetjes, om meteen en vloeiend mee te kunnen zingen!
 
 ## Je kan hier vinden:
 
