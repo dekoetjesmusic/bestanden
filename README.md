@@ -5,7 +5,7 @@ De meeste songtexten voor liedjes van De Koetjes en ook ideeën voor liedjes en 
 
 - [x] Kerst Met De Koetjes
 - [x] Appel Appel Peer
-- [ ] Bella Bella Bumper
+- [x] Bella Bella Bumper (mist .mp3/.wav)
 - [x] Hyperventilatie
 - [x] Schiermonnikoog (mist .mp3/.wav)
 - [ ] Aboneer Op Philip Boer
