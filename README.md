@@ -7,7 +7,7 @@ De meeste songtexten voor liedjes van De Koetjes en ook ideeën voor liedjes en 
 - [x] Appel Appel Peer
 - [ ] Bella Bella Bumper
 - [x] Hyperventilatie
-- [ ] Schiermonnikoog
+- [x] Schiermonnikoog (mist .mp3/.wav)
 - [ ] Aboneer Op Philip Boer
 - [ ] Barbieschijt
 - [ ] Floppa Lied
